@@ -1,5 +1,16 @@
-# Lord Kitchener Tribute page
+# Lord Kitchener Tribute Page
 
-calebjwales Project Number: 1
+## Project Info
+*calebjwales* Project Number: 1  
+Created on 2020-DEC-28  
+Last Updated on 2020-JAN-01
 
-URL: [Lord Kitchener Tribute Page](./dist/index.html).
+**Link:** [Lord Kitchener Tribute Page](./dist/index.html).
+
+## Description
+Demonstrating the use of HTML and CSS in Responsive website design by designing a tribute page for the grand master of Calypso.
+
+---
+## Technology Used:
+* HTML
+* CSS
