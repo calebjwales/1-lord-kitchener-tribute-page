@@ -8,7 +8,7 @@ Last Updated on 2020-JAN-01
 **Link:** [Lord Kitchener Tribute Page](./dist/index.html).
 
 ## Description
-Demonstrating the use of HTML and CSS in Responsive website design by designing a tribute page for the grand master of Calypso.
+Demonstrating the use of HTML and CSS in a responsive website design, by designing a tribute page for the grand master of Calypso.
 
 ---
 ## Technology Used:
